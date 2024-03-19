@@ -1,0 +1,100 @@
+{
+  "mangas": [
+    {
+      "id": 1,
+      "nombre": "Solo Leveling",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/0a/1a/40fe5b520b2145439de9c2bd9c3d2763.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Chainsaw Man",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/1f/27/1e98b7148af6491cb0a82d75a430ce19.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Ataque a los Titanes",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/35/23/6d479b72cb40463db995604a9af11788.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Boy's Abyss",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/1d/35/a46390aa9a2e49618533f45fb51438ef.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "My Hero Academia",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/small/05/0a/73fb9c34e32c4d02ad80f7e8fb861f46.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Grand Blue Dreaming",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/01/16/0d1ce13fb0414c97a8d170c0d54bb9a6.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Blue Lock",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/31/24/bc8596a93bb54251807e218eb0125bdc.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Tokyo Revengers",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/2c/07/cdf9db240b1c40fbbe41c3dc5bffd753.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Mushoku Tensei",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/30/3a/e35f360607a94004b7e567e89a6fe0c1.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Chigayafuru",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "ECC Editorial",
+      "imgURL": "https://i1.whakoom.com/large/1d/16/6e138e1854a54d61bab2981651b853aa.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Jujutsu Kaisen",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/06/1f/06e1f158428d4313a1538af8b72400e7.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "One Piece",
+      "numVolumenes": 72,
+      "autor": "Chu-Gong",
+      "editorial": "Norma Comics",
+      "imgURL": "https://i1.whakoom.com/large/1d/35/0d95cdc458c24110831616aa605d426b.jpg"
+    }
+  ]
+}
