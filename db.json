@@ -3,98 +3,263 @@
     {
       "id": 1,
       "nombre": "Solo Leveling",
-      "numVolumenes": 72,
+      "numVolumenes": 12,
       "autor": "Chu-Gong",
       "editorial": "Norma Comics",
+      "descripcion": "Jinwoo Sung es un débil cazador que se encuentra en un mundo donde la caza de monstruos es una profesión común. Sin embargo, todo cambia cuando queda atrapado en una mazmorra mortal y adquiere un poder inigualable.",
       "imgURL": "https://i1.whakoom.com/large/0a/1a/40fe5b520b2145439de9c2bd9c3d2763.jpg"
     },
     {
       "id": 2,
       "nombre": "Chainsaw Man",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 16,
+      "autor": "Tatsuki Fujimoto",
+      "editorial": "Shueisha",
+      "descripcion": "Denji es un joven que, endeudado con los yakuza, trabaja cazando demonios con la ayuda de su perro-demonio. Un día su vida cambia radicalmente al convertirse en el "Chainsaw Man" tras un inesperado suceso.",
       "imgURL": "https://i1.whakoom.com/large/1f/27/1e98b7148af6491cb0a82d75a430ce19.jpg"
     },
     {
       "id": 3,
       "nombre": "Ataque a los Titanes",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 36,
+      "autor": "Hajime Isayama",
+      "editorial": "Kodansha",
+      "descripcion": "La humanidad sobrevive en ciudades protegidas por altos muros debido a los titanes, gigantes carnívoros que devoran humanos. Eren Yeager y sus amigos se unen al ejército para luchar contra ellos y descubrir la verdad detrás de su existencia.",
       "imgURL": "https://i1.whakoom.com/large/35/23/6d479b72cb40463db995604a9af11788.jpg"
     },
     {
       "id": 4,
       "nombre": "Boy's Abyss",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 12,
+      "autor": "Ryoku Fujisaki",
+      "editorial": "Shueisha",
+      "descripcion": "Chiaki vive atormentado por el suicidio de su mejor amigo en un barranco llamado 'Abismo de los Chicos'. Un día conoce a una chica que también tiene conexiones con ese lugar, lo que los lleva a confrontar sus pasados oscuros.",
       "imgURL": "https://i1.whakoom.com/large/1d/35/a46390aa9a2e49618533f45fb51438ef.jpg"
     },
     {
       "id": 5,
       "nombre": "My Hero Academia",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 40,
+      "autor": "Kohei Horikoshi",
+      "editorial": "Shueisha",
+      "descripcion": "En un mundo donde la mayoría de las personas tienen superpoderes llamados "Quirks", Izuku Midoriya sueña con ser un héroe. Aunque nace sin un Quirk, su determinación lo lleva a recibir el poder de All Might y entrar en la prestigiosa academia U.A.",
       "imgURL": "https://i1.whakoom.com/small/05/0a/73fb9c34e32c4d02ad80f7e8fb861f46.jpg"
     },
     {
       "id": 6,
       "nombre": "Grand Blue Dreaming",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 10,
+      "autor": "Kenji Inoue",
+      "editorial": "Kodansha",
+      "descripcion": "Tras mudarse a la ciudad costera de Izu, Iori Kitahara espera una vida llena de diversión junto a sus amigos universitarios. Sin embargo, se encuentra en medio de un club de buceo lleno de excéntricos, aventuras y mucho alcohol.",
       "imgURL": "https://i1.whakoom.com/large/01/16/0d1ce13fb0414c97a8d170c0d54bb9a6.jpg"
     },
     {
       "id": 7,
       "nombre": "Blue Lock",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 27,
+      "autor": "Muneyuki Kaneshiro",
+      "editorial": "Kodansha",
+      "descripcion": "Ante el fracaso de la selección japonesa de fútbol, se crea el proyecto 'Blue Lock' para entrenar a delanteros con mentalidad individualista. Isagi Yoichi, un joven jugador de equipo, se ve arrastrado a este programa competitivo y brutal.",
       "imgURL": "https://i1.whakoom.com/large/31/24/bc8596a93bb54251807e218eb0125bdc.jpg"
     },
     {
       "id": 8,
       "nombre": "Tokyo Revengers",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 34,
+      "autor": "Ken Wakui",
+      "editorial": "Kodansha",
+      "descripcion": "Takemichi Hanagaki, un inadaptado social, viaja en el tiempo para evitar la muerte de su novia y cambiar su vida. Se encuentra atrapado en un ciclo de eventos que lo llevan a confrontar pandillas juveniles y su pasado turbio.",
       "imgURL": "https://i1.whakoom.com/large/2c/07/cdf9db240b1c40fbbe41c3dc5bffd753.jpg"
     },
     {
       "id": 10,
       "nombre": "Mushoku Tensei",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 29,
+      "autor": "Rifujin na Magonote",
+      "editorial": "Media Factory",
+      "descripcion": "Después de morir en un accidente, un NEET de 34 años reencarna en un mundo de fantasía como un bebé llamado Rudeus Greyrat. Con recuerdos de su vida anterior, decide vivir plenamente esta nueva oportunidad y convertirse en un gran mago.",
       "imgURL": "https://i1.whakoom.com/large/30/3a/e35f360607a94004b7e567e89a6fe0c1.jpg"
     },
     {
       "id": 11,
-      "nombre": "Chigayafuru",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "ECC Editorial",
+      "nombre": "Chihayafuru",
+      "numVolumenes": 17,
+      "autor": "Yuki Suetsugu",
+      "editorial": "Kodansha",
+      "descripcion": "Chihaya Ayase se enamora del juego de cartas 'karuta' después de conocer a un jugador prodigio, Arata Wataya. Junto a su amigo de la infancia Taichi Mashima, persiguen sus sueños de convertirse en maestros de karuta mientras enfrentan desafíos personales.",
       "imgURL": "https://i1.whakoom.com/large/1d/16/6e138e1854a54d61bab2981651b853aa.jpg"
     },
     {
       "id": 12,
       "nombre": "Jujutsu Kaisen",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 31,
+      "autor": "Gege Akutami",
+      "editorial": "Shueisha",
+      "descripcion": "Yuji Itadori se une al club de ocultismo de su escuela, donde descubre un objeto maldito poderoso. Tras un incidente, se ve obligado a enfrentar a criaturas malditas y unirse a la organización de hechiceros Jujutsu para proteger a la humanidad.",
       "imgURL": "https://i1.whakoom.com/large/06/1f/06e1f158428d4313a1538af8b72400e7.jpg"
     },
     {
       "id": 13,
       "nombre": "One Piece",
-      "numVolumenes": 72,
-      "autor": "Chu-Gong",
-      "editorial": "Norma Comics",
+      "numVolumenes": 134,
+      "autor": "Eiichiro Oda",
+      "editorial": "Shueisha",
+      "descripcion": "Monkey D. Luffy sueña con encontrar el tesoro legendario One Piece y convertirse en el Rey de los Piratas. Con su tripulación de variopintos compañeros, navega por mares peligrosos, enfrenta enemigos poderosos y descubre secretos del pasado.",
       "imgURL": "https://i1.whakoom.com/large/1d/35/0d95cdc458c24110831616aa605d426b.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Demon Slayer: Kimetsu no Yaiba",
+      "numVolumenes": 28,
+      "autor": "Koyoharu Gotouge",
+      "editorial": "Shueisha",
+      "descripcion": "Tanjiro Kamado se convierte en un cazador de demonios después de que su familia sea masacrada por un demonio y su hermana Nezuko sea transformada en uno. En su búsqueda para vengar a su familia y curar a su hermana, se une a otros cazadores.",
+      "imgURL": "https://i1.whakoom.com/large/32/26/c8ff0a6a2e8c438fa7136b0628cf93bc.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Naruto",
+      "numVolumenes": 72,
+      "autor": "Masashi Kishimoto",
+      "editorial": "Shueisha",
+      "descripcion": "Naruto Uzumaki, un ninja hiperactivo con el sueño de ser Hokage y ser reconocido por todos, se embarca en aventuras llenas de batallas, amistad y crecimiento personal. Con sus compañeros de equipo, protege a su aldea y busca su lugar en el mundo ninja.",
+      "imgURL": "https://i1.whakoom.com/large/31/11/c930a2c4078f4073b2ad8f7a8ae055ae.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Bleach",
+      "numVolumenes": 72,
+      "autor": "Tite Kubo",
+      "editorial": "Shueisha",
+      "descripcion": "Ichigo Kurosaki obtiene poderes de un Shinigami (dios de la muerte) y asume la responsabilidad de proteger a los vivos de los espíritus malignos llamados Hollows. Con la ayuda de sus amigos y aliados espirituales, se enfrenta a amenazas que ponen en peligro ambos mundos.",
+      "imgURL": "https://i1.whakoom.com/large/31/19/1e5ae865370b40a0a07b0e5df4edf148.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Death Note",
+      "numVolumenes": 12,
+      "autor": "Tsugumi Ohba",
+      "editorial": "Shueisha",
+      "descripcion": "Light Yagami encuentra un cuaderno que le otorga el poder de matar a cualquier persona cuyo nombre escriba en él. Decidido a limpiar el mundo de criminales, se enfrenta a un astuto detective conocido como L, desencadenando un juego de ingenio y estrategia.",
+      "imgURL": "https://i1.whakoom.com/large/31/22/e3fd18c9240543a7b25fcd28244f1348.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Fullmetal Alchemist",
+      "numVolumenes": 27,
+      "autor": "Hiromu Arakawa",
+      "editorial": "Square Enix",
+      "descripcion": "Edward y Alphonse Elric buscan la Piedra Filosofal para restaurar sus cuerpos tras un fallido intento de resucitar a su madre. En su viaje como alquimistas estatales, enfrentan conspiraciones, descubren secretos oscuros y luchan por un mundo mejor.",
+      "imgURL": "https://i1.whakoom.com/large/31/12/451f99e4e7f6466bbf5175cf1af0353f.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Attack on Titan",
+      "numVolumenes": 34,
+      "autor": "Hajime Isayama",
+      "editorial": "Kodansha",
+      "descripcion": "La humanidad sobrevive en ciudades protegidas por altos muros debido a los titanes, gigantes carnívoros que devoran humanos. Eren Yeager y sus amigos se unen al ejército para luchar contra ellos y descubrir la verdad detrás de su existencia.",
+      "imgURL": "https://i1.whakoom.com/large/35/23/6d479b72cb40463db995604a9af11788.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Tokyo Ghoul",
+      "numVolumenes": 14,
+      "autor": "Sui Ishida",
+      "editorial": "Shueisha",
+      "descripcion": "Ken Kaneki, tras ser atacado por un ghoul, se convierte en mitad ghoul y mitad humano. Ahora debe equilibrar su nueva vida, enfrentando a ghouls hostiles, organizaciones secretas y su propia lucha interna entre la humanidad y la sed de sangre.",
+      "imgURL": "https://i1.whakoom.com/large/31/1e/e43d5e71568d4971a0495b2b4f1cb47d.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "Dragon Ball",
+      "numVolumenes": 42,
+      "autor": "Akira Toriyama",
+      "editorial": "Shueisha",
+      "descripcion": "Son Goku, un joven con una cola de mono y fuerza sobrehumana, emprende un viaje en busca de las legendarias Esferas del Dragón. Conoce a aliados y enemigos poderosos mientras entrena arduamente para convertirse en el luchador más fuerte del universo.",
+      "imgURL": "https://i1.whakoom.com/large/31/17/70275e22c7764381987602cb38cc8976.jpg"
+    },
+    {
+      "id": 22,
+      "nombre": "Hunter x Hunter",
+      "numVolumenes": 36,
+      "autor": "Yoshihiro Togashi",
+      "editorial": "Shueisha",
+      "descripcion": "Gon Freecss quiere convertirse en un cazador para encontrar a su padre, un legendario cazador ausente. En su viaje, conoce a amigos como Killua, Leorio y Kurapika, enfrentándose a desafíos peligrosos, criaturas mágicas y misterios del mundo de los cazadores.",
+      "imgURL": "https://i1.whakoom.com/large/31/1f/9d5122c3407c4424bdc01edc44e8f55e.jpg"
+    },
+    {
+      "id": 23,
+      "nombre": "Fairy Tail",
+      "numVolumenes": 63,
+      "autor": "Hiro Mashima",
+      "editorial": "Kodansha",
+      "descripcion": "Lucy Heartfilia se une al gremio de magos Fairy Tail, donde conoce a Natsu Dragneel y otros magos poderosos. Juntos realizan misiones, enfrentan enemigos y descubren los misterios de un mundo de magia, amistad y aventuras emocionantes.",
+      "imgURL": "https://i1.whakoom.com/large/31/21/3f15fc53b0d042e0b7e6b2df671bf937.jpg"
+    },
+    {
+      "id": 24,
+      "nombre": "Black Clover",
+      "numVolumenes": 34,
+      "autor": "Yūki Tabata",
+      "editorial": "Shueisha",
+      "descripcion": "Asta, un joven sin poderes mágicos en un mundo donde todos los tienen, busca convertirse en el Rey Mago para proteger a su reino y demostrar su valía. Junto a su rival y amigo Yuno, se embarcan en aventuras llenas de magia y combates emocionantes.",
+      "imgURL": "https://i1.whakoom.com/large/31/10/3d7b0064c41a4b6a9ec7ebf375f738d7.jpg"
+    },
+    {
+      "id": 25,
+      "nombre": "The Promised Neverland",
+      "numVolumenes": 20,
+      "autor": "Kaiu Shirai",
+      "editorial": "Shueisha",
+      "descripcion": "Emma y sus amigos viven felices en un orfanato hasta que descubren un oscuro secreto: son criados para ser devorados por demonios. Deciden escapar y enfrentarse al mundo exterior lleno de peligros, buscando la libertad y la verdad sobre su existencia.",
+      "imgURL": "https://i1.whakoom.com/large/31/1c/033ca4b9ef0c4995b784fbcff7456b36.jpg"
+    },
+    {
+      "id": 26,
+      "nombre": "Haikyu!!",
+      "numVolumenes": 45,
+      "autor": "Haruichi Furudate",
+      "editorial": "Shueisha",
+      "descripcion": "Hinata Shoyo, un estudiante de secundaria de baja estatura pero gran determinación, se une al club de voleibol para superar a su rival, Kageyama Tobio. Juntos lideran un equipo inspirador de jugadores talentosos en el camino hacia el campeonato nacional.",
+      "imgURL": "https://i1.whakoom.com/large/31/10/12f38102f7254f6aa6c99e6c85060ed8.jpg"
+    },
+    {
+      "id": 27,
+      "nombre": "Vinland Saga",
+      "numVolumenes": 25,
+      "autor": "Makoto Yukimura",
+      "editorial": "Kodansha",
+      "descripcion": "Thorfinn, un joven vikingo con sed de venganza, busca enfrentarse al asesino de su padre, Askeladd. En su viaje por la guerra y la traición, descubre la verdadera naturaleza del honor y la búsqueda de un propósito más allá de la violencia.",
+      "imgURL": "https://i1.whakoom.com/large/31/1a/8e0d8db08fa044d9bcfa2dfe0cf8a924.jpg"
+    },
+    {
+      "id": 28,
+      "nombre": "Gintama",
+      "numVolumenes": 77,
+      "autor": "Hideaki Sorachi",
+      "editorial": "Shueisha",
+      "descripcion": "En una versión alternativa de Japón invadida por alienígenas, Gintoki Sakata es un samurái excéntrico que realiza trabajos diversos para sobrevivir. Junto a sus amigos y aliados, se enfrenta a situaciones absurdas y peligrosas en un mundo lleno de parodias y humor.",
+      "imgURL": "https://i1.whakoom.com/large/31/19/ea0e1707c2d44535a0d7d02b8202fd1e.jpg"
+    },
+    {
+      "id": 29,
+      "nombre": "Tokyo Ghoul:re",
+      "numVolumenes": 16,
+      "autor": "Sui Ishida",
+      "editorial": "Shueisha",
+      "descripcion": "Después de los eventos de Tokyo Ghoul, Ken Kaneki asume una nueva identidad en la CCG para investigar y enfrentar a ghouls peligrosos. Sin embargo, su búsqueda de paz y justicia se complica con conspiraciones y dilemas morales.",
+      "imgURL": "https://i1.whakoom.com/large/31/11/c06942b437cb4419b29e30e1e5d3f3fb.jpg"
+    },
+    {
+      "id": 30,
+      "nombre": "Fire Force",
+      "numVolumenes": 32,
+      "autor": "Atsushi Ōkubo",
+      "editorial": "Kodansha",
+      "descripcion": "En un mundo donde las personas pueden explotar y convertirse en demonios de fuego, Shinra Kusakabe se une a la Fuerza Especial de Bomberos para combatir estas amenazas. Descubre conspiraciones, secretos oscuros y su propio poder explosivo.",
+      "imgURL": "https://i1.whakoom.com/large/31/18/0fb530256f2d4d99947f9152e41f3f24.jpg"
     }
   ]
 }
